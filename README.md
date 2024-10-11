@@ -34,9 +34,23 @@ This is a small example project that demonstrates how to use reinforcement learn
    ```bash
    python train.py
    ```
-2. Testing and Visualization
+   Hardware setting:
+   - i7-12700k
+   - RTX 3060
+     
+   Training time:
+    - About 30mins to finish training steps.   
+
+3. Testing and Visualization
    ```bash
    python test.py
    ```
-3. You can find all the parameter settings in the `environment.py` file.
+4. You can find all the parameter settings in the `environment.py` file.
+5. There is total four checkpoint or trained model. In the file you can change following code in `environment.py` to test different model.
+   ```bash
+   model_file = Path("ppo_simple.zip")
+   ```
 
+## Example Plots
+![Example Plot](./images/example_plot.png)
+![Example Plot](./images/example_plot.png)
