@@ -18,7 +18,6 @@ This is a small example project that demonstrates how to use reinforcement learn
 - `-10` if speed exceeds the maximum limit.
 
 ## Virtual Environment Setup
-
 1. Install necessary packages:
    ```bash
    pip install stable_baselines3
