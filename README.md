@@ -3,6 +3,12 @@
 ## Introduction
 This is a small example project that demonstrates how to use reinforcement learning (RL) to control an unmanned aerial vehicle (UAV). The UAV is controlled by adjusting its acceleration to reach a target destination while minimizing time and maintaining safe motion parameters such as speed and acceleration.
 
+## Dependencies
+This project mainly bases on two library: `Stable-Baselines3` and `Gymnasium`.
+For more information, visit 
+-[Stable-Baselines3](https://stable-baselines3.readthedocs.io/en/master/)
+-[Gymnasium](https://gymnasium.farama.org/index.html)
+
 ## Environment
 - **Agent**: Single UAV
 - **State**: The UAV's position and velocity.
