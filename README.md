@@ -54,8 +54,8 @@ This is a small example project that demonstrates how to use reinforcement learn
 ## Example Plots
 Plot of single UAV trajectory
 
-![Example Plot](./images/Trajectory.png)
+![Example Plot](./Trajectory.png)
 
 Plot of corresponding speed, distance and reward
 
-![Example Plot](./images/Trajectory.png)
+![Example Plot](./Parameter.png)
