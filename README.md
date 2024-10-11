@@ -24,8 +24,9 @@ This is a small example project that demonstrates how to use reinforcement learn
    pip install gym==0.26.0
    pip install gymnasium==0.28.1
    pip install shimmy
-   ```2.Important Notice:
-You may need to reinstall `gymnasium==0.28.1` because the default version of gymnasium(v1.0.0) installed with stable_baselines3 does not work well with this environment.
+   ```
+2.Important Notice:
+   You may need to reinstall `gymnasium==0.28.1` because the default version of gymnasium(v1.0.0) installed with stable_baselines3 does not work well with this environment.
 
 ## How to Use the Code
 1.Training the Model
