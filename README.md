@@ -6,8 +6,9 @@ This is a small example project that demonstrates how to use reinforcement learn
 ## Dependencies
 This project mainly bases on two library: `Stable-Baselines3` and `Gymnasium`.
 For more information, visit 
--[Stable-Baselines3](https://stable-baselines3.readthedocs.io/en/master/)
--[Gymnasium](https://gymnasium.farama.org/index.html)
+
+- [Stable-Baselines3](https://stable-baselines3.readthedocs.io/en/master/)
+- [Gymnasium](https://gymnasium.farama.org/index.html)
 
 ## Environment
 - **Agent**: Single UAV
