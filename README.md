@@ -39,7 +39,7 @@ This is a small example project that demonstrates how to use reinforcement learn
    - RTX 3060
      
    Training time:
-    - About 30mins to finish training steps.   
+    - About 30mins to finish 3000000 training steps.   
 
 3. Testing and Visualization
    ```bash
@@ -52,5 +52,8 @@ This is a small example project that demonstrates how to use reinforcement learn
    ```
 
 ## Example Plots
-![Example Plot](./images/example_plot.png)
-![Example Plot](./images/example_plot.png)
+Plot of single UAV trajectory
+![Example Plot](./images/Trajectory plot.png)
+
+Plot of corresponding speed, distance and reward
+![Example Plot](./images/Trajectory plot.png)
